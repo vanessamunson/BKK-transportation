@@ -1,0 +1,1 @@
+Invalid API key. Please register at https://opendata.bkk.hu
